@@ -11,6 +11,6 @@ import Foundation
 struct Constants {
   
   struct Keys {
-    static let weatherAPIKey = "XXXX"
+    static let weatherAPIKey = OPENWEATHER_API_KEY
   }
 }
